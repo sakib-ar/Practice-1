@@ -11,3 +11,6 @@
 ## Script File
 - script.js
 - [SCRIPT](script.js)
+
+## License
+[MIT LICENSE](LICENSE)
