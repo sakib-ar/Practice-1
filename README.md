@@ -1,5 +1,8 @@
 # Practice-1
 
+> [!NOTE]
+> THIS REPO IS JUST FOR FUN 😂😂😂
+
 ## INDEX File
 - index.html
 - [INDEX](index.html)
